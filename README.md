@@ -1,59 +1,33 @@
 # Barbershop
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.1.
+# 💻 Sobre o Projeto  
+Este projeto foi desenvolvido como parte do meu aprendizado em Angular. O objetivo foi criar um sistema de agendamento para uma barbearia, utilizando a biblioteca Angular Material para explorar conceitos fundamentais do framework.  
 
-## Development server
+## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento  
+Para a realização deste projeto, foi necessário conhecimento prévio nas seguintes áreas:  
 
-To start a local development server, run:
+- **JavaScript** | Intermediário  
+- **TypeScript** | Intermediário  
+- **HTML** | Intermediário  
+- **CSS** | Intermediário  
+- **Docker** | Básico (opcional)  
+- **Docker Compose** | Básico (opcional)  
 
-```bash
-ng serve
-```
+## 🛠️ Habilidades Desenvolvidas  
+Durante o desenvolvimento, aprimorei e pratiquei os seguintes conceitos:  
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+- Desenvolvimento **Frontend** com Angular  
+- Consumo de **API Rest**  
+- Comunicação entre **Frontend e Backend**  
+- **Componentização** para organização e reaproveitamento de código  
 
-## Code scaffolding
+## 🎯 Objetivos e Resultados Alcançados  
+Com a conclusão deste projeto, fui capaz de:  
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+✅ Criar uma aplicação Angular do zero  
+✅ Integrar o frontend com uma API Rest  
+✅ Componentizar a aplicação para torná-la mais modular e escalável  
 
-```bash
-ng generate component component-name
-```
+---
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+📌 *Este projeto foi um grande passo no meu aprendizado e me ajudou a consolidar conceitos essenciais do desenvolvimento web com Angular!* 🚀
